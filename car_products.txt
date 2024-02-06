@@ -1,0 +1,30 @@
+Sedan,10,25000
+SUV,5,35000
+Hatchback,3,20000
+Sports Car,2,50000
+Electric Vehicle,8,40000
+Convertible,4,45000
+Luxury Car,6,60000
+Crossover,7,30000
+Minivan,3,28000
+Pickup Truck,9,32000
+Compact Car,12,18000
+Midsize Car,11,22000
+Supercar,1,100000
+Off-road Vehicle,6,40000
+Luxury SUV,4,55000
+Sedan,6,24000
+SUV,3,34000
+Hatchback,5,19000
+Sports Car,1,48000
+Electric Vehicle,7,38000
+Convertible,2,43000
+Luxury Car,4,58000
+Crossover,6,29000
+Minivan,2,27000
+Pickup Truck,8,31000
+Compact Car,10,17000
+Midsize Car,9,21000
+Supercar,3,95000
+Off-road Vehicle,4,38000
+Luxury SUV,3,53000
