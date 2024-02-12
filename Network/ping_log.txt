@@ -1,0 +1,14 @@
+- Host google.com is reachable
+- Host yandex.ru is reachable
+- Host 192.168.0.1 is Unreachable
+Пн 12 фев 2024 17:02:53 MSK
+
+- Host google.com is reachable
+- Host yandex.ru is reachable
+- Host 192.168.0.1 is Unreachable
+
+Пн 12 фев 2024 17:04:03 MSK
+
+- Host google.com is reachable
+- Host yandex.ru is reachable
+- Host 192.168.0.1 is Unreachable

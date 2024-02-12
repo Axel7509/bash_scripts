@@ -1,0 +1,3 @@
+0 * * * * /home/artem/bash_scripts/Network/monitor_hosts.sh
+
+
